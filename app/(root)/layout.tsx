@@ -3,10 +3,10 @@ import { Metadata } from 'next';
 import React, { Children, ReactNode } from 'react'
 
 export const metadata: Metadata = {
-  title: "JOOM",
+  title: "Ilumicall",
   description: "app de videollamadas",
   icons: {
-    icon: '/icons/logo.svg'
+    icon: '/images/logo.jpeg'
   }
 };
 
